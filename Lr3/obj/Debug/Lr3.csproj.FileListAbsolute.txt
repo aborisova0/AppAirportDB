@@ -1,0 +1,76 @@
+C:\Users\Alsu\Desktop\5 семестр\Практикум на ЭВМ. БД\Lr3\Lr3\bin\Debug\Lr3.exe.config
+C:\Users\Alsu\Desktop\5 семестр\Практикум на ЭВМ. БД\Lr3\Lr3\bin\Debug\Lr3.exe
+C:\Users\Alsu\Desktop\5 семестр\Практикум на ЭВМ. БД\Lr3\Lr3\bin\Debug\Lr3.pdb
+C:\Users\Alsu\Desktop\5 семестр\Практикум на ЭВМ. БД\Lr3\Lr3\obj\Debug\Lr3.Form1.resources
+C:\Users\Alsu\Desktop\5 семестр\Практикум на ЭВМ. БД\Lr3\Lr3\obj\Debug\Lr3.Properties.Resources.resources
+C:\Users\Alsu\Desktop\5 семестр\Практикум на ЭВМ. БД\Lr3\Lr3\obj\Debug\Lr3.csproj.GenerateResource.Cache
+C:\Users\Alsu\Desktop\5 семестр\Практикум на ЭВМ. БД\Lr3\Lr3\obj\Debug\Lr3.csproj.CoreCompileInputs.cache
+C:\Users\Alsu\Desktop\5 семестр\Практикум на ЭВМ. БД\Lr3\Lr3\obj\Debug\Lr3.exe
+C:\Users\Alsu\Desktop\5 семестр\Практикум на ЭВМ. БД\Lr3\Lr3\obj\Debug\Lr3.pdb
+C:\Users\Alsu\Desktop\5 семестр\Практикум на ЭВМ. БД\Lr3\Lr3\obj\Debug\Lr3.csprojResolveAssemblyReference.cache
+C:\Users\Alsu\Desktop\5 семестр\Практикум на ЭВМ. БД\Lr3\Lr3\obj\Debug\Lr3.Banks.resources
+C:\Users\Alsu\Desktop\5 семестр\Практикум на ЭВМ. БД\Lr3\Lr3\obj\Debug\Lr3.ATM.resources
+C:\Users\Alsu\Desktop\5 семестр\Практикум на ЭВМ. БД\Lr3\Lr3\obj\Debug\Lr3.Clients.resources
+C:\Users\Alsu\Desktop\5 семестр\Практикум на ЭВМ. БД\Lr3\Lr3\obj\Debug\Lr3.Operations.resources
+C:\Users\hp\Desktop\Новая папка\ЭВМ\Практикум на ЭВМ. БД\Lr3\Lr3\bin\Debug\Lr3.exe.config
+C:\Users\hp\Desktop\Новая папка\ЭВМ\Практикум на ЭВМ. БД\Lr3\Lr3\bin\Debug\Lr3.exe
+C:\Users\hp\Desktop\Новая папка\ЭВМ\Практикум на ЭВМ. БД\Lr3\Lr3\bin\Debug\Lr3.pdb
+C:\Users\hp\Desktop\Новая папка\ЭВМ\Практикум на ЭВМ. БД\Lr3\Lr3\obj\Debug\Lr3.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Новая папка\ЭВМ\Практикум на ЭВМ. БД\Lr3\Lr3\obj\Debug\Lr3.ATM.resources
+C:\Users\hp\Desktop\Новая папка\ЭВМ\Практикум на ЭВМ. БД\Lr3\Lr3\obj\Debug\Lr3.Book.resources
+C:\Users\hp\Desktop\Новая папка\ЭВМ\Практикум на ЭВМ. БД\Lr3\Lr3\obj\Debug\Lr3.Form1.resources
+C:\Users\hp\Desktop\Новая папка\ЭВМ\Практикум на ЭВМ. БД\Lr3\Lr3\obj\Debug\Lr3.Operations.resources
+C:\Users\hp\Desktop\Новая папка\ЭВМ\Практикум на ЭВМ. БД\Lr3\Lr3\obj\Debug\Lr3.Properties.Resources.resources
+C:\Users\hp\Desktop\Новая папка\ЭВМ\Практикум на ЭВМ. БД\Lr3\Lr3\obj\Debug\Lr3.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Новая папка\ЭВМ\Практикум на ЭВМ. БД\Lr3\Lr3\obj\Debug\Lr3.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Новая папка\ЭВМ\Практикум на ЭВМ. БД\Lr3\Lr3\obj\Debug\Lr3.exe
+C:\Users\hp\Desktop\Новая папка\ЭВМ\Практикум на ЭВМ. БД\Lr3\Lr3\obj\Debug\Lr3.pdb
+C:\Users\hp\Desktop\Новая папка\ЭВМ\Практикум на ЭВМ. БД\Lr3\Lr3\obj\Debug\Lr3.Writer.resources
+C:\Users\hp\Desktop\Новая папка\ЭВМ\Практикум на ЭВМ. БД\Lr3\Lr3\obj\Debug\Lr3.Catalog.resources
+C:\Users\hp\Desktop\БД\ЭВМ\Lr3\Lr3\bin\Debug\Lr3.exe.config
+C:\Users\hp\Desktop\БД\ЭВМ\Lr3\Lr3\bin\Debug\Lr3.exe
+C:\Users\hp\Desktop\БД\ЭВМ\Lr3\Lr3\bin\Debug\Lr3.pdb
+C:\Users\hp\Desktop\БД\ЭВМ\Lr3\Lr3\obj\Debug\Lr3.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\БД\ЭВМ\Lr3\Lr3\obj\Debug\Lr3.Book.resources
+C:\Users\hp\Desktop\БД\ЭВМ\Lr3\Lr3\obj\Debug\Lr3.Catalog.resources
+C:\Users\hp\Desktop\БД\ЭВМ\Lr3\Lr3\obj\Debug\Lr3.Writer.resources
+C:\Users\hp\Desktop\БД\ЭВМ\Lr3\Lr3\obj\Debug\Lr3.Form1.resources
+C:\Users\hp\Desktop\БД\ЭВМ\Lr3\Lr3\obj\Debug\Lr3.Customer.resources
+C:\Users\hp\Desktop\БД\ЭВМ\Lr3\Lr3\obj\Debug\Lr3.Properties.Resources.resources
+C:\Users\hp\Desktop\БД\ЭВМ\Lr3\Lr3\obj\Debug\Lr3.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\БД\ЭВМ\Lr3\Lr3\obj\Debug\Lr3.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\БД\ЭВМ\Lr3\Lr3\obj\Debug\Lr3.exe
+C:\Users\hp\Desktop\БД\ЭВМ\Lr3\Lr3\obj\Debug\Lr3.pdb
+C:\Users\hp\Desktop\БД\ЭВМ\Lr3\Lr3\obj\Debug\Lr3.Order.resources
+C:\Users\hp\Desktop\Lr3\Lr3\bin\Debug\Lr3.exe.config
+C:\Users\hp\Desktop\Lr3\Lr3\bin\Debug\Lr3.exe
+C:\Users\hp\Desktop\Lr3\Lr3\bin\Debug\Lr3.pdb
+C:\Users\hp\Desktop\Lr3\Lr3\obj\Debug\Lr3.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Lr3\Lr3\obj\Debug\Lr3.Contract.resources
+C:\Users\hp\Desktop\Lr3\Lr3\obj\Debug\Lr3.Order.resources
+C:\Users\hp\Desktop\Lr3\Lr3\obj\Debug\Lr3.Book.resources
+C:\Users\hp\Desktop\Lr3\Lr3\obj\Debug\Lr3.Catalog.resources
+C:\Users\hp\Desktop\Lr3\Lr3\obj\Debug\Lr3.Writer.resources
+C:\Users\hp\Desktop\Lr3\Lr3\obj\Debug\Lr3.Form1.resources
+C:\Users\hp\Desktop\Lr3\Lr3\obj\Debug\Lr3.Customer.resources
+C:\Users\hp\Desktop\Lr3\Lr3\obj\Debug\Lr3.Properties.Resources.resources
+C:\Users\hp\Desktop\Lr3\Lr3\obj\Debug\Lr3.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Lr3\Lr3\obj\Debug\Lr3.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Lr3\Lr3\obj\Debug\Lr3.exe
+C:\Users\hp\Desktop\Lr3\Lr3\obj\Debug\Lr3.pdb
+C:\Users\hp\Desktop\3 курс\5 семестр\БД\ЭВМ\Lr3\Lr3\bin\Debug\Lr3.exe.config
+C:\Users\hp\Desktop\3 курс\5 семестр\БД\ЭВМ\Lr3\Lr3\bin\Debug\Lr3.exe
+C:\Users\hp\Desktop\3 курс\5 семестр\БД\ЭВМ\Lr3\Lr3\bin\Debug\Lr3.pdb
+C:\Users\hp\Desktop\3 курс\5 семестр\БД\ЭВМ\Lr3\Lr3\obj\Debug\Lr3.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\3 курс\5 семестр\БД\ЭВМ\Lr3\Lr3\obj\Debug\Lr3.Contract.resources
+C:\Users\hp\Desktop\3 курс\5 семестр\БД\ЭВМ\Lr3\Lr3\obj\Debug\Lr3.Order.resources
+C:\Users\hp\Desktop\3 курс\5 семестр\БД\ЭВМ\Lr3\Lr3\obj\Debug\Lr3.Book.resources
+C:\Users\hp\Desktop\3 курс\5 семестр\БД\ЭВМ\Lr3\Lr3\obj\Debug\Lr3.Catalog.resources
+C:\Users\hp\Desktop\3 курс\5 семестр\БД\ЭВМ\Lr3\Lr3\obj\Debug\Lr3.Writer.resources
+C:\Users\hp\Desktop\3 курс\5 семестр\БД\ЭВМ\Lr3\Lr3\obj\Debug\Lr3.Form1.resources
+C:\Users\hp\Desktop\3 курс\5 семестр\БД\ЭВМ\Lr3\Lr3\obj\Debug\Lr3.Customer.resources
+C:\Users\hp\Desktop\3 курс\5 семестр\БД\ЭВМ\Lr3\Lr3\obj\Debug\Lr3.Properties.Resources.resources
+C:\Users\hp\Desktop\3 курс\5 семестр\БД\ЭВМ\Lr3\Lr3\obj\Debug\Lr3.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\3 курс\5 семестр\БД\ЭВМ\Lr3\Lr3\obj\Debug\Lr3.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\3 курс\5 семестр\БД\ЭВМ\Lr3\Lr3\obj\Debug\Lr3.exe
+C:\Users\hp\Desktop\3 курс\5 семестр\БД\ЭВМ\Lr3\Lr3\obj\Debug\Lr3.pdb
